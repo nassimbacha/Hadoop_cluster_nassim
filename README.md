@@ -52,7 +52,7 @@ $HADOOP\_HOME/sbin/start-dfs.sh
 
 $HADOOP\_HOME/sbin/start-yarn.sh
 
-![Hadoop architecture](docs/img/Hadoop – Cluster multi-nœuds (1 Master + 2 Workers) V2.png)
+![Hadoop architecture](docs/img/Cluster.png)
 
 
 
