@@ -52,7 +52,10 @@ $HADOOP\_HOME/sbin/start-dfs.sh
 
 $HADOOP\_HOME/sbin/start-yarn.sh
 
-<img width="3953" height="2275" alt="Hadoop – Cluster multi-nœuds (1 Master + 2 Workers) V2" src="https://github.com/user-attachments/assets/834ed9d0-dce8-456a-a230-6ecd7f300042" />
+
+<img width="541" height="312" alt="image" src="https://github.com/user-attachments/assets/a0f0c5f8-7139-4192-aec6-a4f951876faa" />
+
+
 
 
 
