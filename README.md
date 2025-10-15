@@ -53,7 +53,7 @@ $HADOOP\_HOME/sbin/start-dfs.sh
 $HADOOP\_HOME/sbin/start-yarn.sh
 
 
-<img width="541" height="312" alt="image" src="https://github.com/user-attachments/assets/a0f0c5f8-7139-4192-aec6-a4f951876faa" />
+
 
 
 
